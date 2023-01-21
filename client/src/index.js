@@ -8,10 +8,8 @@ import {LoyaltyProvider} from './context/LoyaltyContext'
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <LoyaltyProvider>
-    <React.StrictMode>
       <App />
-    </React.StrictMode>
-  // </LoyaltyProvider>
+  </LoyaltyProvider>
 );
 
 reportWebVitals();

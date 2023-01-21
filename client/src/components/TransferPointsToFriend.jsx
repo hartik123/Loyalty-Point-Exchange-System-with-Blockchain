@@ -103,7 +103,7 @@ const TransferPointsToFriend = () => {
         <div className='border-4 border-blue-400 bg-blue-200 rounded-3xl'>
 
             <div>
-                <div>TransferPointsToFriend</div>
+                <div className='font-bold'>Transfer Points To Friends</div>
                 <div>
                     <Box
                         component="form"

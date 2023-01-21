@@ -1,7 +1,7 @@
 import abi from './Loyalty.json';
 
 export const contractABI = abi;
-export const contractAddress = '0x3a113BBdcC82aF33dcF7d3E48d9DecFCA4F38E70'
+export const contractAddress = '0x1AD64D4250a7919C85C21CCf8e526f3beD3e27f1'
 
 export const getTimeStamp = () => {
 

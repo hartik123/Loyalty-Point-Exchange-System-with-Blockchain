@@ -50,7 +50,7 @@ const TransactionRecords = () => {
   ]);
 
   return (
-    <div className='bg-green-200'>
+    <div className='bg-green-200' style={{minHeight:"100vh"}}>
       <h1 className='text-3xl font-semibold text-black text-center'>Transaction Records</h1>
       <div className='flex flex-row flex-wrap'>
       {

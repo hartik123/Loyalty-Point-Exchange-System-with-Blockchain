@@ -21,7 +21,7 @@ const AddUserNetwork = () => {
     return (
         <div className='flex flex-row flex-wrap'>
             <div className='border-4 border-blue-400 bg-blue-200 rounded-3xl'>
-                <div>Add User</div>
+                <div className='font-bold'>Add Customer</div>
                 <TextField
                     id="standard-basic"
                     label="Customer's Address"
@@ -77,7 +77,7 @@ const AddUserNetwork = () => {
                         <br />
                     </Box>
                 </div>
-                <Button variant="contained" endIcon={<SendIcon />} onChange={handleUserAddress} onClick={() => addUserTransaction()} style={{ marginBottom: "1em 0" }}>
+                <Button variant="contained" endIcon={<SendIcon />} onClick={() => addUserTransaction()} style={{ marginBottom: "1em 0" }}>
                     Add User
                 </Button>
             </div>

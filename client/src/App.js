@@ -1,11 +1,13 @@
 import * as React from 'react';
 import Navbar from './components/Navbar';
 import NewNavbar from './components/NewNavbar';
+import CustomerRequestsView from './pages/CustomerRequestsView';
 import MainPage from './pages/MainPage';
 import TransactionRecords from './pages/TransactionRecords';
 
 
 export default function App() {
+
   return (
     <>
       <Navbar />
@@ -13,6 +15,7 @@ export default function App() {
       <div id="transactionRecords">
         <TransactionRecords />
       </div>
+      <CustomerRequestsView />
     </>
   );
 }

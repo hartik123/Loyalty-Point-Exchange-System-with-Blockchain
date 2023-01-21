@@ -96,7 +96,7 @@ const ConvertPointsSelf = () => {
     return (
         <div className='border-4 border-blue-400 bg-blue-200 rounded-3xl'>
             <div>
-                <div>Convert Points to Self</div>
+                <div className='font-bold'>Convert Points to Self</div>
                 <br />
                 <div>
                     <Box
@@ -141,7 +141,6 @@ const ConvertPointsSelf = () => {
 
                         <br />
 
-                        <div>
                         <TextField
                             id="standard-basic"
                             label="Company Points"
@@ -157,7 +156,6 @@ const ConvertPointsSelf = () => {
                             <Button onClick={() => { changeConvertCompanyPoint(50);}}>50%</Button>
                             <Button onClick={() => { changeConvertCompanyPoint(100);}}>100%</Button>
                         </ButtonGroup>
-                        </div>
                         <br />
 
                         <Button variant="contained" endIcon={<SendIcon />} onClick={submitConvertPoint}>
