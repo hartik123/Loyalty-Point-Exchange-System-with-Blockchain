@@ -1,5 +1,6 @@
 # Loyalty-Point-Exchange-System-with-Blockchain
 Exchanging Loyalty Points given by the company using the Blockchain Technology. Furthermore, using Ethereum Smart Contract for handling the points converstion and transfer the points to friend.
+**Link to the site is here https://loyaltypointexchangesystem.netlify.app/**
 
 
 <img width="948" alt="MicrosoftTeams-image (2)" src="https://user-images.githubusercontent.com/59147991/213890508-44f05d93-b24b-4d8a-a280-8831f1ee86ec.png">
@@ -41,121 +42,6 @@ Exchanging Loyalty Points given by the company using the Blockchain Technology. 
 <img width="948" alt="MicrosoftTeams-image (32)" src="https://user-images.githubusercontent.com/59147991/213891046-ebd75a20-b7cd-4f6c-8f9b-1cf4d1402dde.png">
 <img width="948" alt="MicrosoftTeams-image (33)" src="https://user-images.githubusercontent.com/59147991/213891060-33832c19-ac51-4b71-9346-ba86956f0121.png">
 <img width="947" alt="MicrosoftTeams-image (34)" src="https://user-images.githubusercontent.com/59147991/213891078-1364f9c4-6b84-47eb-858c-7718c0931a41.png">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
