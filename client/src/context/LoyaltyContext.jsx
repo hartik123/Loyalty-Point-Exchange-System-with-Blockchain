@@ -267,7 +267,7 @@ export const LoyaltyProvider = ({ children }) => {
   const checkIfAdminAccount = () => {
     if (
       currentAccount ==
-      "0x68C348EfeB1BF8301547F51De795bFC8f1cd67c2".toLowerCase()
+      "0x5678039F2cdD5d8d901A0ef7f8aB38F2576FeA10".toLowerCase()
     ) {
       return true;
     } else return false;

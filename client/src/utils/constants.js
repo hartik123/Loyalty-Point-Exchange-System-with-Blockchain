@@ -1,7 +1,9 @@
 import abi from './Loyalty.json';
 
 export const contractABI = abi;
-export const contractAddress = '0x1AD64D4250a7919C85C21CCf8e526f3beD3e27f1'
+export const contractAddress = '0x650DDe76aB647113f2e875f35a8D2380E21462E5' //This can be changed if website wants to connect to the local network, currently it is set to smart contract's deployd on global network 
+
+// export const contractAddress = '0x650DDe76aB647113f2e875f35a8D2380E21462E5' -->Actual Deployed Smart Contract Working Address
 
 export const getTimeStamp = () => {
 
