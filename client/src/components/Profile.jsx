@@ -33,11 +33,11 @@ const Profile = () => {
             </Typography> */}
       {/* <ShowData textMsg="0xAb8....835cb2" /> */}
 
-      <p onClick={() => navigator.clipboard.writeText(currentAccount)} className="tooltip" style={{cursor:"pointer"}}>
+      {/* <p onClick={() => navigator.clipboard.writeText(currentAccount)} className="tooltip" style={{cursor:"pointer"}}> */}
         <ShowData textMsg={`Address: ${shortenAddress(currentAccount)}`} />
         <ContentPasteIcon />
-        <span className="tooltiptext">Click to copy</span>
-      </p>
+        {/* <span className="tooltiptext">Click to copy</span>
+      </p> */}
 
 
       <ShowData
