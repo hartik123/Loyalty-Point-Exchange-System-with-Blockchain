@@ -30,6 +30,8 @@ const CustomerRequest = () => {
                 <Button variant="contained" endIcon={<SendIcon />} onClick={() => customerAddFunction()} style={{ marginBottom: "1em 0" }}>
                     Place Request
                 </Button>
+                <br />
+                <p style={{color:"red", fontSize:"bold"}}>Please only make one request for one account, as the account will not function if more than one request is made!</p>
             </div>
 
         </div>
